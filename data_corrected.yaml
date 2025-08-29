@@ -1,0 +1,5 @@
+names:
+- Vehicle
+nc: 1
+train: c:\Users\jaiki\Desktop\Yolov8\Vehicle_Detection_Image_Dataset\train\images
+val: c:\Users\jaiki\Desktop\Yolov8\Vehicle_Detection_Image_Dataset\valid\images
